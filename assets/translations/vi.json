@@ -1,0 +1,100 @@
+{
+  "app": {
+    "title": "Makoto"
+  },
+  "common": {
+    "ok": "Xác nhận",
+    "cancel": "Bỏ qua",
+    "select_language": "Ngôn ngữ",
+    "delete": "Xóa",
+    "close": "Đóng",
+    "back": "Trở về",
+    "login": "Đăng nhập",
+    "logout": "Thoát",
+    "continue": "Continue",
+    "back_home": "Back to home"
+  },
+  "messages": {
+    "no_internet_connection": "No Internet connection",
+    "connection_timed_out": "Connection timed out",
+    "try_again": "Try again",
+    "offline": "You're offline, please connect and try again",
+    "server_error": "An error occurred, please try again later",
+    "can_not_connect_server": "Can't connect to the server"
+  },
+  "splash": {
+    "title": "Makoto"
+  },
+  "sign_up": {
+    "title": "Sign Up",
+    "header": "Register Account",
+    "text_top": "Complete your details or continue \nwith social media",
+    "text_bottom": "By continuing your confirm that you agree \nwith our Term and Condition"
+  },
+  "complete_profile": {
+    "title": "Sign Up",
+    "header":"Complete Profile",
+    "text_top": "Complete your details or continue  \nwith social media",
+    "text_bottom": "By continuing your confirm that you agree \nwith our Term and Condition",
+    "complete_form": {
+      "first_name_label": "First Name",
+      "first_name_hint": "Enter your first name",
+      "last_name_label": "Last Name",
+      "last_name_hint": "Enter your last name",
+      "phone_label": "Phone Number",
+      "phone_hint": "Enter your phone number",
+      "address_label": "Address",
+      "address_hint": "Enter your phone address"
+    }
+  },
+  "sign_in": {
+    "title": "Sign In",
+    "header": "Welcome Back",
+    "text_top": "Sign in with your email and password  \nor continue with social media",
+    "remember": "Remember me"
+  },
+  "forgot_password": {
+    "title": "Forgot Password",
+    "text_top": "Please enter your email and we will send \nyou a link to return to your account",
+    "remember": "Remember me",
+    "text_bottom": "By continuing your confirm that you agree \nwith our Term and Condition"
+  },
+  "profile": {
+    "title": "Profile",
+    "button": {
+      "account":"My Account",
+      "notification": "Notifications",
+      "setting": "Settings",
+      "help": "Help Center",
+      "logout": "Log Out"
+    }
+  },
+  "otp": {
+    "title": "OTP Verification",
+    "text_top": "We sent your code to +1 898 860 ***",
+    "re-sent": "Resend OTP Code",
+    "text_bottom": "This code will expired in "
+  },
+  "login_success": {
+    "title": "",
+    "header": "Back to home"
+  },
+  "home": {
+
+  },
+  "form": {
+    "confirm_label": "Confirm Password",
+    "confirm_hint": "Re-enter your password",
+    "password_label": "Password",
+    "password_hint": "Enter your password",
+    "email_label": "Email",
+    "email_hint": "Enter your Email"
+  },
+
+  "widgets": {
+    "no_account": {
+      "content": "Don’t have an account? ",
+      "button": "Sign Up"
+    }
+  }
+}
